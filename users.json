@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ira sri",
+    "age": 20,
+    "gender": "Female",
+    "allergies": "none",
+    "medications": "none",
+    "email": "irasrivastava55@gmail.com",
+    "password": "Irasri@007"
+  },
+  {
+    "name": "suhani",
+    "age": 20,
+    "gender": "Female",
+    "allergies": "none",
+    "medications": "nonee",
+    "email": "suhani123@gmail.com",
+    "password": "suhani"
+  }
+]
